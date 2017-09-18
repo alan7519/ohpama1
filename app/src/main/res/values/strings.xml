@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ohpama1</string>
+    <string name="sel_gender">选择你的性别\n（可选多项）</string>
+    <string name="version">Verison 1</string>
+    <string name="sel_age">選擇你的子女的年齡</string>
+    <string name="shared_file">ohpama_info</string>
+
+</resources>
